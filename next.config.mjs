@@ -3,9 +3,8 @@ const nextConfig = {
   images: {
     domains: ['images.unsplash.com', 'source.unsplash.com', 'plus.unsplash.com'],
   },
-  output: {
-    export: {}
-  },
+  output: 'export'
+  ,
 
   async generateStaticParams() {
     const staticParams = [
