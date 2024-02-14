@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 En esta URL se puede consultar el proyecto desplegado en Vercel.
 
-https://fundacion-grupo-social-kbnc-losunluix-nestorguzman182.vercel.app/
+https://fundacion-grupo-social-kbnc.vercel.app/
 
 Para ejecutar el proyecto de manera local, primero se debe clonar el proyecto e instalar todas las dependencia con npm.
 
